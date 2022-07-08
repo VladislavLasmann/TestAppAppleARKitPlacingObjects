@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "Aston_Martin_Vanquish.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
